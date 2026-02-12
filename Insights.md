@@ -41,7 +41,7 @@ Customer segmentation
 Risk assessment models
 
 # Sample Prediction
-```
+```python
 from predict import predict_charge
 
 sample = {
